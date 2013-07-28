@@ -1,3 +1,9 @@
+---
+layout: default
+title: Basics
+---
+
+
 <img src="images/hpfrisbee.jpg"
      alt="Frisbee players in Hyde Park - Photo by Daniel Butler"
      align="right" width="40%">
